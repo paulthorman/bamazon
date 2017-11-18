@@ -19,9 +19,9 @@ If there are not enough of that item or too many are requested, an out of stock 
 ![Screenshot](/images/purchase_error.png)
 
 ##### Initializing node BamazonManager.js in the command line prompts options for the manager:
-    * View products on sale
-    * View low inventory
-    * Add inventory
+* View products on sale
+* View low inventory
+* Add inventory
 
 ![Screenshot](/images/manager_options.png)
 
